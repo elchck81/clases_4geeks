@@ -9,5 +9,5 @@
 - para observar el estado en una rama: `git status`
 - para observar la bitácora de commits: `git log` y luego salimos de la lista con: `Ctrl + z`
 
-
+- Firma: Santiago Trejo
 FIRMA: Agustin Arturo Melian Su
