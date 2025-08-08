@@ -14,5 +14,6 @@
 - Francisco Assiso
 - Addán Isaí Cruz Cruz
 - Firma: Santiago Trejo
+- John Fredy Beltran Cuellar
 FIRMA: Agustin Arturo Melian Su
 
