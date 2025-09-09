@@ -10,10 +10,13 @@
 - para observar la bitácora de commits: `git log` y luego salimos de la lista con: `Ctrl + z`
 
 
+
 ## Nombres de Alumnos
 - Francisco Assiso
 - Addán Isaí Cruz Cruz
 - Firma: Santiago Trejo
 - John Fredy Beltran Cuellar
+- Eduardo Buysse
 FIRMA: Agustin Arturo Melian Su
+
 
